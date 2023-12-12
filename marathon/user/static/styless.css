@@ -1,0 +1,58 @@
+body {
+    overflow-x: hidden;
+}
+
+.container-fluid {
+    overflow: hidden;
+}
+
+.carousel {
+    overflow: hidden;
+}
+
+.carousel-inner {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.form_register {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 600px !important
+}
+
+
+.form-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.form-register-2 {
+    background-color: #fff;
+    padding: 20px;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px !important;
+    display: inline-block;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+}
+
+.h-px
+{
+    height: 600px;
+}
+
+.text-de-co{
+    text-decoration: none;
+}
